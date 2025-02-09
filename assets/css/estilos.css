@@ -1,5 +1,10 @@
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: "Georgia, 'Times New Roman', Times, serif";
+}
+
+.navbar-brand{
+  text-align: left;
+  margin-top: 10px;
 }
 
 /* Hero Section */
